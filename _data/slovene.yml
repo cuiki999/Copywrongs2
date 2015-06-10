@@ -1,11 +1,11 @@
 title: Reši reformo avtorskega prava
-description: "Prav zdaj se v EU odvijajo razprave o načrtih za ureditev problemov na področju avtorskega prava, ki vsak dan vplivajo nate. Vendar močno zavezništvo skrbi za sabotažo teh pomembnih posodobitev. Se nam boš pridružil v boju?"
+description: "Ta trenutek se v EU odvijajo razprave o načrtih za ureditev problemov na področju avtorskega prava, ki vsak dan vplivajo nate. Vendar močno zavezništvo želi sabotirati te pomembne posodobitve. Se nam boš pridružil v boju?"
 callnow: "<span>Pokliči zdaj</span> in reši reformo &ndash; vzelo ti bo samo dve minuti!"
 savecreform: "Reši<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;reformo</div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; avtorskega prava"
 daysuntil: "dni do glasovanja"
-rightnow: "Prav zdaj"
+rightnow: "Ta trenutek"
 debatingplans: "se v EU odvijajo razprave o načrtih za ureditev problemov na področju avtorskega prava, ki vsak dan vplivajo nate."
-but: "Vendar močno zavezništvo skrbi za sabotažo teh pomembnih posodobitev."
+but: "Vendar močno zavezništvo želi sabotirati te pomembne posodobitve."
 whichthree: "Kateri trije predlogi se ti zdijo najpomembnejši?"
 geoblocking: 
     h: "<span>Odpraviti</span> regijsko zaklepanje"
@@ -49,7 +49,7 @@ publicdomain:
     eu: "Digitalizacija del, ki so v skupni lasti, ne bi smela biti razlog za odobritev ponovne zaščite."
     link: "https://juliareda.eu/copyright-evaluation-report-explained/#publicdomain"
     please: "Prosim vas, da <strong>zaščitite javno domeno</strong> in razjasnite, da digitalna kopija nečesa, kar ni zaščiteno z avtorskim pravom, ne odobri novega avtorskega prava."
-    do: Zavrnite spremembe, ki bi omilile točko <a href="https://juliareda.eu/copyright-evaluation-report-explained/#publicdomain" target="_blank" class="am">#6</a> v poročilu poslanke Julie Reda - podprite spremembo <span class="am">#264</span>, ki točko razjasnjuje.
+    do: Zavrnite spremembe, ki bi omilile točko <a href="https://juliareda.eu/copyright-evaluation-report-explained/#publicdomain" target="_blank" class="am">#6</a> v poročilu poslanke Julie Reda - podprite spremembo <span class="am">#264</span>, ki točko razjasnjuje.
 libraries: 
     h: "<span>Omogočiti</span> knjižnicam spletno delovanje"
     cw: "Knjižnice v zameno za plačilo avtorjem dobijo pravico do posojanja fizičnih izvodov knjig.  Na internetu ta pravica ne obstaja."
@@ -59,28 +59,28 @@ libraries:
     do: Glasujte za predloga sprememb <abbr class="am" title="Poziva, naj se obvezne izjeme nanašajo tudi na knjižnice">#348</abbr>, <abbr class="am" title="Poziva k okrepitvi izjem v javnem interesu">#350</abbr> in točki <span class="am">#16</span> in <span class="am">#22</span> mnenja <abbr title="Odbor za industrijo">ITRE</abbr>.
 publicspace: 
     h: "<span>Narediti</span> javni prostor dostopen vsem"
-    cw: "V Nemčiji lahko na spletu prosto objavljaš slike javnih stavb – čez mejo v Franciji pa te arhitekt lahko toži!"
+    cw: "V Nemčiji lahko na spletu prosto objavljaš slike javnih stavb – čez mejo v Franciji pa te arhitekt lahko toži!"
     eu: "Zagotovite <strong>pravico do panorame</strong> po Evropi: Slike stvari, ki so permanentno na očeh javnosti, morajo biti zakonite za objavo."
     link: "https://juliareda.eu/copyright-evaluation-report-explained/#panorama"
     please: "Prosim vas, da zagotovite <strong>svobodo do panorame</strong>v Evropi in uzakonite deljenje slik javnih stavb  – ne glede na to, ali gre za komercialne ali nekomercialne namene."
     do: Zavrnite vse spremembe, ki omiljujejo točko <a class="am" href="https://juliareda.eu/copyright-evaluation-report-explained/#panorama" target="_blank">#16</a> v poročilu poslanke Julie Reda, glasujte za originalno besedilo oziroma za kompromis spremembe, če ta obstaja.
 education: 
     h: "<span>Zaščititi</span> izobraževalno uporabo"
-    cw: "Šole lahko pri poučevanju pogosto svobodno uporabljajo fizične izvode učbenikov – objava iste vsebine na šolskem intranetu v PDF obliki pa je lahko nezakonita."
+    cw: "Šole lahko pri poučevanju pogosto svobodno uporabljajo fizične izvode učbenikov – objava iste vsebine na šolskem intranetu v PDF obliki pa je lahko nezakonita."
     eu: "Celovita izjema avtorskega prava za <strong>izobraževalne namene</strong> po vsej Evropi."
     link: "https://juliareda.eu/copyright-evaluation-report-explained/#education"
     please: "Prosim vas, da podprete izjemo avtorskega prava, ki tudi v digitalnem svetu dopušča uporabo avtorsko zaščitenega gradiva v <strong>izobraževalne namene</strong>."
-    do: Zavrnite spremembe, ki bi omilile točko <a href="https://juliareda.eu/copyright-evaluation-report-explained/#education" target="_blank" class="am">#19</a> v poročilu poslanke Julie Reda –  torej vse razen sprememb <span class="am">#466-468</span>.
+    do: Zavrnite spremembe, ki bi omilile točko <a href="https://juliareda.eu/copyright-evaluation-report-explained/#education" target="_blank" class="am">#19</a> v poročilu poslanke Julie Reda –  torej vse razen sprememb <span class="am">#466-468</span>.
 availability: 
     h: "<span>Povečati</span> dostopnost del"
-    cw: "Avtorsko pravo traja 70 let po avtorjevi smrti. Tako dolga doba v veliki večini primerov ne prinaša dobička, pač pa dela naredi nedostopna."
-    eu: "Zmanjšajte trajanje avtorskega prava na mednarodni življenjski standard + <strong>50 let</strong>."
+    cw: "Avtorska pravica traja še 70 let po avtorjevi smrti. Tako dolga doba v veliki večini primerov ne prinaša dobička, pač pa dela naredi nedostopna."
+    eu: "Zmanjšajte trajanje monopola nad avtorskimi deli na mednarodni življenjski standard + <strong>50 let</strong>."
     link: "https://juliareda.eu/copyright-evaluation-report-explained/#term"
     please: "Prosim vas, da podprete uskladitev <strong>trajanja varstva avtorskega prava</strong> na življenjski standard po Bernski konvenciji + <strong>50</strong> let."
     do: Zavrnite spremembe točke <a href="https://juliareda.eu/copyright-evaluation-report-explained/#terms" target="_blank" class="am">#7</a> v poročilu poslanke Julie Reda in podprite točko <span class="am">#18</span> mnenja <abbr title="Odbor za industrijo">ITRE</abbr> opinion.
 digitallocks: 
     h: "<span>Zavrniti</span> elektronske ključavnice"
-    cw: "Po zakonu lahko delaš kopije medijev, ki si jih kupil za osebno uporabo – kar ti v praksi velikokrat preprečujejo elektronske ključavnice."
+    cw: "Po zakonu lahko delaš kopije medijev, ki si jih kupil za osebno uporabo – kar ti v praksi velikokrat preprečujejo elektronske ključavnice."
     eu: "Zagotovite, da tehnični ukrepi ne omejujejo uporabnikovih pravnih pravic."
     link: "https://juliareda.eu/copyright-evaluation-report-explained/#drm"
     please: "Prosim vas, da zagotovite, da tehnološka zaščita (<strong>DRM</strong>) ne ovira zakonite uporabe kupljenih vsebin."
@@ -119,6 +119,6 @@ call:
     agendatext: "V zvezi s <strong>poročilom o avtorskem pravu</strong>, o katerem boste glasovali v Odboru za pravne zadeve 16. junija..."
 showmore: Če hočeš tu videti več točk, se pomakni navzgor in klikni "Se strinjam"
 tell: Povej svetu
-icalled: Poklical sem svojega evropskega poslanca in pripomogel k reševanju reforme avtorskega prava<br />– kaj pa ti?
+icalled: Poklical sem svojega evropskega poslanca in pripomogel k reševanju reforme avtorskega prava<br />– kaj pa ti?
 sharetext:  Nujno potrebni načrti za reformo avtorskega prava so v nevarnosti. Poklical sem svojega evropskega poslanca, daj ga tudi ti!
-credits: Stran je izdelala pisarna <a href="https://juliareda.eu" target="_blank">evropske poslanke Julie Reda</a>, ekipa <a href="http://copy-me.org/" target="_blank">Copy-Me</a> in dodatni prostovoljci. Grafika <a href="https://github.com/Copywrongs-Gang/Copywrongs2">Fork me on Github</a><br /> delno temelji na ikonah, ki so jih ustvarili EliRatus, useiconic.com, Cornelius Danger, Pedro Vidal, John Caserta, Carolina Andrea, Magicon, Luis Prado – v celoti pod licenco Creative Commons (CC BY 3.0)
+credits: Stran je izdelala pisarna <a href="https://juliareda.eu" target="_blank">evropske poslanke Julie Reda</a>, ekipa <a href="http://copy-me.org/" target="_blank">Copy-Me</a> in dodatni prostovoljci. Grafika <a href="https://github.com/Copywrongs-Gang/Copywrongs2">Fork me on Github</a><br /> delno temelji na ikonah, ki so jih ustvarili EliRatus, useiconic.com, Cornelius Danger, Pedro Vidal, John Caserta, Carolina Andrea, Magicon, Luis Prado – v celoti pod licenco Creative Commons (CC BY 3.0)
